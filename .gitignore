@@ -3,3 +3,4 @@ venv/
 .env.hidden
 __pycache__/
 *.pyc
+chroma_persistent_storage/
